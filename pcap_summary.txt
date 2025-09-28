@@ -1,0 +1,9 @@
+PCAP: demo_http_icmp.pcap
+Total packets: 17
+\nTop talkers (by packets sent):
+  192.168.213.129: 9 packets
+  44.195.242.49: 5 packets
+  142.250.202.46: 3 packets
+\nProtocol distribution:
+  TCP: 11 packets
+  ICMP: 6 packets
