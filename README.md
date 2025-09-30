@@ -14,6 +14,3 @@ python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 
-## Demo Video
-
-[Click here to watch the demo](full_screen.mp4)
